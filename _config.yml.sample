@@ -1,8 +1,8 @@
 # You have to configure this ###################################################
 title: Octopod
 # You should configure this ####################################################
-url: https://tvieiragoncalves.github.io/podcenas/
-download_url: "http://your.fancy.hosting/episodes"
+url:
+# download_url: "http://your.fancy.hosting/episodes"
 subtitle: Static Site Podcast Publishing for Geeks
 description: My super duper cool podcast.
 author: Uncle Octopod
@@ -25,7 +25,7 @@ ssh_port: 22
 document_root: /path/to/your/htdocs/
 rsync_delete: true
 # You can configure this #######################################################
-twitter_nick: my_twitter_handle
+twitter_nick: tiago_1989
 language: en
 explicit: 'no'  # 'yes'/'no'/clean
 license: CC BY 4.0
